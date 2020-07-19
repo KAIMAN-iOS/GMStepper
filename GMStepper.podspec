@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "GMStepper"
-  s.version          = "2.2"
+  s.version          = "2.3"
   s.summary          = "A stepper with a sliding label in the middle."
   s.homepage         = "https://github.com/gmertk/GMStepper"
   s.screenshots      = "https://raw.githubusercontent.com/gmertk/GMStepper/master/Screenshots/screenshot_1.gif"
@@ -12,5 +12,5 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '8.0'
   s.requires_arc = true
   s.source_files = 'GMStepper/*.swift'
-  s.swift_version = '4.2'
+  s.swift_version = '5.0'
 end
